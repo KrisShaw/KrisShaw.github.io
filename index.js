@@ -1,1 +1,1 @@
-document.getElementById("nav").backgroundColor = "red";
+document.getElementByTagName("nav").backgroundColor = "red";
